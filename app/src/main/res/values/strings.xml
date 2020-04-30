@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lianlianCt</string>
+    <string name="begin_game">开始游戏</string>
+    <string name="pause_game">暂停游戏</string>
+    <string name="continue_game">继续游戏</string>
+    <string name="remain_time">剩余时间：</string>
+</resources>
